@@ -27,7 +27,7 @@
 > Page 6/7
 <img src="https://cdn.discordapp.com/attachments/594370347474747412/770636149668577290/unknown.png"
      alt="Page 6"
-     style="float: center; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" />
 
 > Page 7/7
 <img src="https://cdn.discordapp.com/attachments/594370347474747412/770636193632354304/unknown.png"
