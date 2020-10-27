@@ -1,3 +1,5 @@
+### [Invite Me](https://discord.com/oauth2/authorize?client_id=594189989143904264&scope=bot&permissions=8)
+
 # Fear-v4-cmds
 > Page 1/7
 <img src="https://cdn.discordapp.com/attachments/594370347474747412/770635655918780446/unknown.png"
